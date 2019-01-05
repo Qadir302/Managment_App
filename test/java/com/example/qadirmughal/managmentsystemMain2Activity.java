@@ -43,7 +43,7 @@ public class Main2Activity extends AppCompatActivity {
             Counter--;
             if(Counter==0);
             Login.setEnabled(false);
-
+             //else system.Out.println('heloo');
 
 
         }
